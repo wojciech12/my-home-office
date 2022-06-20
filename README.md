@@ -16,4 +16,4 @@ A sibling repo to [My Development Workstation Setup](https://github.com/wojciech
 
 ## Misc
 
-e.g. shelfes for books
+e.g. shelves for books
